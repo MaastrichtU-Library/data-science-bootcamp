@@ -2,6 +2,8 @@
 
 #### Work materials for the Data Science Bootcamp at PGGM
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedrohserrano/data-science-bootcamp/master)
+
 ![](img/bootcamp.png)
 
 ---
