@@ -8,17 +8,17 @@
 
 ![](img/bootcamp.png)
 
-######*The following examples and implementations are not general Data Science rather financial use cases.*
+*The following examples and implementations are not general Data Science rather financial use cases.*
 
 ---
 ### Bootcamp Goals
-● Introduce the basics of the python programming environment such as functions, reading and manipulating CSV files, and the NumPy library.  
-● Introduce data manipulation techniques using pandas data science library.  
-● Introduce the abstraction of the Series and DataFrame as the central data
+* Introduce the basics of the python programming environment such as functions, reading and manipulating CSV files, and the NumPy library.  
+* Introduce data manipulation techniques using pandas data science library.  
+* Introduce the abstraction of the Series and DataFrame as the central data
 structures for data analysis.  
-● Develop a general understanding of data formats and representations.  
-● Get an overview of some python visualization packages.  
-● Learn how to perform a data science pipeline and their best use cases.  
+* Develop a general understanding of data formats and representations.  
+* Get an overview of some python visualization packages.  
+* Learn how to perform a data science pipeline and their best use cases.  
 
 ### Quick Access to the Notebooks
 [1. Data Science with Python](https://nbviewer.jupyter.org/github/pedrohserrano/data-science-bootcamp/blob/master/notebooks/1%20-%20Intro%20DS%20with%20Python.ipynb)  
@@ -39,14 +39,14 @@ structures for data analysis.
 * [StephanieStallworth/Exploratory_Data_Analysis_Visualization_Python](https://github.com/StephanieStallworth/Exploratory_Data_Analysis_Visualization_Python)
 
 ### Python for Data Science
-● Python is an open-source high-level, interpreted, programming language.  
-● A data science/text analytics project may include everything from scraping data from
+* Python is an open-source high-level, interpreted, programming language.  
+* A data science/text analytics project may include everything from scraping data from
 the web, analyzing a mixture of text and numerical data, computing features, training
 a model, creating high-quality graphs, and then hosting a web app with results.  
-● 70,000 libraries in the Python Package Index  
-● It has a massive user community, who contribute to a large number of high-quality,
+* 70,000 libraries in the Python Package Index  
+* It has a massive user community, who contribute to a large number of high-quality,
 well maintained open-source tools.  
-● Widely used in industry and academia.  
+* Widely used in industry and academia.  
 
 	 "Python isn't the best at anything, but it's second best at everything"
 
